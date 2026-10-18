@@ -1,0 +1,8 @@
+Serie,Fuerza_Estacional,Fuerza_Tendencia,Volatilidad_CV,Caida_Pandemia_pct
+Total_Consistent,0.3799,0.7782,0.38,97.16
+Via_Aerea,0.4461,0.7054,0.3047,99.6
+Via_Terrestre,0.2032,0.7168,0.4914,97.77
+Via_Maritima,0.5948,0.532,1.0233,62.62
+Pais_El Salvador,0.3085,0.8387,0.5692,99.5
+Pais_Guatemala,0.1655,0.8801,0.5218,93.45
+Pais_Estados Unidos de América,0.744,0.8731,0.4458,97.07

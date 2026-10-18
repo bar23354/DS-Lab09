@@ -1,0 +1,36 @@
+Serie,Modelo,MAE,RMSE,AIC,BIC
+Total_Consistent,SARIMA,238637.91,252407.13,2931.54,2945.52
+Total_Consistent,Seasonal Naive,205855.45,216935.07,,
+Total_Consistent,Suav. Exponencial (SES),179312.76,193270.27,,
+Total_Consistent,Holt-Winters,154067.91,163827.75,,
+Total_Consistent,Prophet,157728.25,168491.83,,
+Via_Aerea,SARIMA,88355.57,93138.38,2637.26,2651.24
+Via_Aerea,Seasonal Naive,73019.63,76785.99,,
+Via_Aerea,Suav. Exponencial (SES),61031.6,64800.4,,
+Via_Aerea,Holt-Winters,43367.39,46756.25,,
+Via_Aerea,Prophet,66123.45,72241.41,,
+Via_Terrestre,SARIMA,180790.36,196144.17,2903.1,2917.08
+Via_Terrestre,Seasonal Naive,158918.75,174808.98,,
+Via_Terrestre,Suav. Exponencial (SES),140578.94,155219.18,,
+Via_Terrestre,Holt-Winters,121526.43,136231.68,,
+Via_Terrestre,Prophet,67278.61,77985.45,,
+Via_Maritima,SARIMA,1414.06,2044.83,2379.5,2390.65
+Via_Maritima,Seasonal Naive,3679.26,3849.07,,
+Via_Maritima,Suav. Exponencial (SES),2356.15,2531.01,,
+Via_Maritima,Holt-Winters,5907.78,7232.26,,
+Via_Maritima,Prophet,8547.98,9794.71,,
+Pais_El Salvador,SARIMA,114831.99,124161.27,2730.39,2744.36
+Pais_El Salvador,Seasonal Naive,100087.58,110365.51,,
+Pais_El Salvador,Suav. Exponencial (SES),98111.29,108194.67,,
+Pais_El Salvador,Holt-Winters,91193.61,99390.39,,
+Pais_El Salvador,Prophet,59125.52,62719.41,,
+Pais_Guatemala,SARIMA,160351.07,172540.12,2720.07,2734.05
+Pais_Guatemala,Seasonal Naive,139603.27,149790.53,,
+Pais_Guatemala,Suav. Exponencial (SES),130675.05,141465.37,,
+Pais_Guatemala,Holt-Winters,123008.88,133303.89,,
+Pais_Guatemala,Prophet,128309.33,138405.29,,
+Pais_Estados Unidos de América,SARIMA,43482.0,47232.6,2407.71,2418.86
+Pais_Estados Unidos de América,Seasonal Naive,37310.04,40107.8,,
+Pais_Estados Unidos de América,Suav. Exponencial (SES),33225.78,36843.88,,
+Pais_Estados Unidos de América,Holt-Winters,25801.82,28068.19,,
+Pais_Estados Unidos de América,Prophet,34297.32,38104.61,,
